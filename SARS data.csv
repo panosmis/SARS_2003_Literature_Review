@@ -1,0 +1,33 @@
+﻿Areas ,Female, Male, Total,Median age (range) ,Youngest Case,Oldest Case,Number of cases currently hospitalised ,Number of cases recovered ,Number of deaths, CFR (%) , Number of imported cases ,Percent of Imported cases %,Number of HCW affected,Percent of HCW affected %, Date onset first probable case ,Date onset last probable case
+Australia,4,2,6,15,1,45,0,6,0,0,6,100,0,0,24-Mar-03,1-Apr-03
+Brazil,1,,1,4,4,4,0,1,0,0,1,100,0,0,3-Apr-03,3-Apr-03
+Canada,151,100,251,49,1,98,10,200,41,17,5,2,108,43,23-Feb-03,12-Jun-03
+China,Pending,Pending,5327,Pending,,,5327,4949,349,7,NA,,1002,19,16-Nov-02,25-Jun-03
+"China, Hong Kong Special Administrative Region",977,778,1755,40,0,100,7,1448,300,17,NA,,386,22,15-Feb-03,31-May-03
+"China, Macao Special Administrative Region",0,1,1,28,28,28,0,1,0,0,1,100,0,0,5-May-03,5-May-03
+"China, Taiwan",349,319,665,46,2,79,10,475,180,27,50,8,86,13,25-Feb-03,15-Jun-03
+Colombia,1,0,1,28,28,28,0,1,0,0,1,100,0,0,2-Apr-03,2-Apr-03
+Finland,0,1,1,24,24,24,0,1,0,0,1,100,0,0,30-Apr-03,30-Apr-03
+France,1,6,7,49,26,61,0,6,1,14,7,100,2,29,21-Mar-03,3-May-03
+Germany,4,5,9,44,4,73,0,9,0,0,9,100,1,11,9-Mar-03,6-May-03
+India,0,3,3,25,25,30,0,3,0,0,3,100,0,0,25-Apr-03,6-May-03
+Indonesia,0,2,2,56 ,47,65,0,2,0,0,2,100,0,0,6-Apr-03,17-Apr-03
+Italy,1,3,4,30.5,25,54,0,4,0,0,4,100,0,0,12-Mar-03,20-Apr-03
+Kuwait ,1,0,1,50,50,50,0,1,0,0,1,100,0,0,9-Apr-03,9-Apr-03
+Malaysia,1,4,5,30,26,84,0,3,2,40,5,100,0,0,14-Mar-03,22-Apr-03
+Mongolia,8,1,9,32,17,63,0,9,0,0,8,89,1,11,31-Mar-03,6-May-03
+New Zealand,1,0,1,67,67,67,0,1,0,0,1,100,,,20-Apr-03,20-Apr-03
+Phillippines,8,6,14,41,29,73,0,12,2,14,7,50,4,29,25-Feb-03,5-May-03
+Republic of Ireland,0,1,1,56,56,56,0,1,0,0,1,100,0,0,27-Feb-03,27-Feb-03
+Republic of Korea,0,3,3,40,20,80,0,3,0,0,3,100,0,0,25-Apr-03,10-May-03
+Romania,0,1,1,52,52,52,0,1,0,0,1,100,0,0,19-Mar-03,19-Mar-03
+Russian Federation,0,1,1,25,25,25,1,0,0,,NA,,0,0,5-May-03,5-May-03
+Singapore,161,77,238,35,1,90,0,205,33,14,8,3,97,41,25-Feb-03,5-May-03
+South Africa,0,1,1,62,62,62,0,0,1,100,1,100,0,0,3-Apr-03,3-Apr-03
+Spain,0,1,1,33,33,33,0,1,0,0,1,100,0,0,26-Mar-03,26-Mar-03
+Sweden,1,2,3,33,33,33,0,3,0,0,1,100,0,0,,
+Switzerland,0,1,1,35,35,35,0,1,0,0,9,100,0,0,9-Mar-03,9-Mar-03
+Thailand,5,4,9,42,2,79,0,7,2,22,4,100,1,11,11-Mar-03,27-May-03
+United Kingdom,2,2,4,59 ,28,74,0,4,0,0,31,94,0,0,1-Mar-03,1-Apr-03
+United States,16,17,33,36,0,83,7,26,0,0,1,2,1,3,9-Jan-03,13-Jul-03
+Vietnam,39,24,63,43,20,76,0,58,5,8,1,2,36,57,23-Feb-03,14-Apr-03
